@@ -12,6 +12,4 @@ Dashboard de streaming para grupos de 5ª geração do K-pop, com destaque para 
 1. Clone o projeto
 2. Instale dependências:
    ```bash
-   npm run build
-npx serve -s dist
-# instale com: npm install -g serve
+   npm install
